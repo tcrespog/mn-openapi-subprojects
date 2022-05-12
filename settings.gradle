@@ -1,0 +1,5 @@
+
+rootProject.name="mn-openapi-subprojects"
+
+include 'domain'
+include 'app'
